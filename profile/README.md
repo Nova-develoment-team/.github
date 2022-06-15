@@ -1,6 +1,6 @@
 Hello! this is nova develoment
 
-![Badge](static - Copy.png)
+<!-- ![Badge](https://github.com/Nova-develoment-team/.github/tree/main/profilestatic - Copy.png) -->
 
 We built Nova api and Nova bot!
 They are wonderful things to improve your discord server and makes your bot cooler
