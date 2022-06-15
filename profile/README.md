@@ -1,6 +1,6 @@
 Hello! this is nova develoment
 
-![Badge](https://cdn.thermalhosting.com/u/4E7Hzl.png)
+![Badge](Badge.png)
 
 We built Nova api and Nova bot!
 They are wonderful things to improve your discord server and makes your bot cooler
