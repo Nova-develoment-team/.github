@@ -1,6 +1,6 @@
 # Nova Team
 
-![Banner](https://github.com/Nova-develoment-team/.github/tree/main/banner)
+![Banner](https://github.com/Nova-develoment-team/.github/blob/main/banner.png?raw=true)
 
 ## Our goal
 - Make projects accessable to people
